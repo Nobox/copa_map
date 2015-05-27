@@ -1,0 +1,9 @@
+{
+  "name": "copa-map",
+  "version": "0.3.7",
+  "main": "map.coffee",
+  "dependencies": {
+    "jquery": "latest",
+    "leaflet.markerclusterer": "latest"
+  }
+}
